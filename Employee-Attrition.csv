@@ -1,0 +1,5 @@
+EmployeeNumber,JobRole,Department,Attrition,OverTime,JobSatisfaction,YearsSinceLastPromotion,DistanceFromHome,WorkLifeBalance,RelationshipSatisfaction
+1,Sales Executive,Sales,Yes,Yes,2,4,11,1,1
+2,Research Scientist,Research & Development,No,No,3,1,5,3,4
+3,Laboratory Technician,Research & Development,Yes,Yes,1,5,12,2,2
+4,Manager,Sales,No,No,4,0,2,3,3
